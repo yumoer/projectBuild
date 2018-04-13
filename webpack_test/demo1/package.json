@@ -1,0 +1,9 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
